@@ -47,3 +47,5 @@ public/demos/**/*.html
 tsconfig.json
 
 public/sponsors-list.json
+temp_auto_push.bat
+temp_interactive_push.bat
